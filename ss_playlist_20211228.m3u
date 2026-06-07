@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", ФУТБОЛ 1 укр
+https://46-166-142-27.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт" shift="1", ФУТБОЛ 1 укр(1)
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", ФУТБОЛ 2 укр
+https://185-198-56-58.livesports24.online/fooootball2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", ФУТБОЛ 3 укр
+https://46-166-139-84.livesports24.online/football3ua.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Setanta sport1
+https://95-213-224-180.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт", Setanta sport2
+https://95-213-224-173.livesports24.online/setantaplusru.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спорт" shift="1", Setanta sport2(1)
+https://5-61-37-44.livesports24.online/setantaplusru.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="1", Setanta Ukraine
+https://95-213-224-169.livesports24.online/setantaukraine.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="1", Setanta plus Ukraine
+https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="1", Беларусь 5
+https://185-198-56-56.livesports24.online/belarusss5.m3u8
+#EXTINF:0 type="stream" channelId="-1" shift="1", Футбол 1 укр(2)
+https://95-213-224-175.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="http://www.alvinchannel.com/templates/Default/images/logo.png" group-title="General",Alvin Channel TV (480p) [Not 24/7]
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 ,InterAz TV
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
+#EXTINF:-1 ,ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://arb24.az/assets/uploads/sites/logo_arb24.png" group-title="News",ARB 24 (1080p) [Not 24/7]
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-id="AzTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="http://www.aztv.az/storage/settings/September2019/23bMtFJXZsjnUuC0AwiQ.png" group-title="General",Az TV (576p) [Not 24/7]
+http://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV (ATV) (720p)
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV (ATV) (576p) [Not 24/7]
+http://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8
+#EXTINF:-1 tvg-id="AzadTVMinus2.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV -2 (ATV) (720p)
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-id="AzadTVMinus4.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV -4 (ATV) (720p)
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-id="CBC.az" tvg-country="AZ;TR;GE" tvg-language="Azerbaijani;Russian;English;Persian;Armenian" tvg-logo="http://cbc.az/assets/uploads/sites/Logo_fin.png" group-title="News",CBC (720p) [Not 24/7]
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ELTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="http://eltv.az/wp-content/uploads/2021/01/alllogo.png" group-title="General",EL TV (432p)
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="FTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://apim.livetv.az/images/original/ftvlogo.png" group-title="Movies",FTV (720p) [Not 24/7]
+https://str2.yodacdn.net/publive/ftv/video.m3u8
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/cUs7TFd.png" group-title="Sports",İdman TV (576p)
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 tvg-id="InterAz.az" tvg-country="AZ" tvg-language="Azerbaijani;Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/%C4%B0nterAz_loqosu.jpeg/600px-%C4%B0nterAz_loqosu.jpeg" group-title="General",İnterAz (1080p) [Not 24/7]
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
+#EXTINF:-1 tvg-id="KepezTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/504px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="General",Kəpəz TV (540p) [Not 24/7]
+http://streams.livetv.az/arbkepez/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="http://medeniyyettv.az/storage/settings/September2019/RDRVyTmdeB1NvyNm4UnF.png" group-title="Culture",Mədəniyyət TV (576p) [Not 24/7]
+http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="MuganTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/HMT5vZA.png" group-title="General",Muğan TV (1080p) [Not 24/7]
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
+#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://ntv.az/assets/images/logo.png" group-title="General",Naxçıvan TV (720p) [Not 24/7]
+http://streams.livetv.az/azerbaijan/nax/playlist.m3u8
+#EXTINF:-1 tvg-id="QblTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/degUDMf.png" group-title="General",Qəbələ TV (480p) [Not 24/7]
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://spacetv.az/wp-content/themes/spacetv/images/logo.png" group-title="General",Space TV (576p) [Not 24/7]
+http://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="http://xezertv.az/images/logo.png" group-title="General",Xəzər TV (576p) [Not 24/7]
+http://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8

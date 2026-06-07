@@ -1,2 +1,30 @@
 # aze-kanal
-aze kanal
+
+#EXTINF:-1 tvg-id="2556"tvg-logo="http://epg.one/img2/2556.png"group-title="Азербайджан | Azərbaycan",CBC
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2196/index.m3u8
+#EXTINF:-1 tvg-id="2551"tvg-logo="http://epg.one/img2/2551.png"group-title="Азербайджан | Azərbaycan",ARB 24 HD
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2188/index.m3u8
+#EXTINF:-1 tvg-id="2637"tvg-logo="http://epg.one/img2/2637.png"group-title="Азербайджан | Azərbaycan",Idman
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2198/index.m3u8
+#EXTINF:-1 tvg-id="2553"tvg-logo="http://epg.one/img2/2553.png"group-title="Азербайджан | Azərbaycan",Space TV
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2190/index.m3u8
+#EXTINF:-1 tvg-id="2559"tvg-logo="http://epg.one/img2/2559.png"group-title="Азербайджан | Azərbaycan",Azad TV
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2200/index.m3u8
+#EXTINF:-1 tvg-id="2435"tvg-logo="http://epg.one/img2/2435.png"group-title="Азербайджан | Azərbaycan",Dunya TV AZ
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2192/index.m3u8
+#EXTINF:-1 tvg-id="2158"tvg-logo="http://epg.one/img2/2158.png"group-title="Азербайджан | Azərbaycan",CBC AZ
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/1050/index.m3u8
+#EXTINF:-1 tvg-id="2555"tvg-logo="http://epg.one/img2/2555.png"group-title="Азербайджан | Azərbaycan",Ictimai TV
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2195/index.m3u8
+#EXTINF:-1 tvg-id="2635"tvg-logo="http://epg.one/img2/2635.png"group-title="Азербайджан | Azərbaycan",ARB TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2187/index.m3u8
+#EXTINF:-1 tvg-id="2557"tvg-logo="http://epg.one/img2/2557.png"group-title="Азербайджан | Azərbaycan",Medeniyyet
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2197/index.m3u8
+#EXTINF:-1 tvg-id="2552"tvg-logo="http://epg.one/img2/2552.png"group-title="Азербайджан | Azərbaycan",ARB Gunes HD
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2189/index.m3u8
+#EXTINF:-1 tvg-id="2558"tvg-logo="http://epg.one/img2/2558.png"group-title="Азербайджан | Azərbaycan",Xazar TV
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2199/index.m3u8
+#EXTINF:-1 tvg-id="2134"tvg-logo="http://epg.one/img2/2134.png"group-title="Азербайджан | Azərbaycan",AzTV
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/966/index.m3u8
+#EXTINF:-1 tvg-id="2636"tvg-logo="http://epg.one/img2/2636.png"group-title="Азербайджан | Azərbaycan",CBC Sport
+http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2193/index.m3u8
